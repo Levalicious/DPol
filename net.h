@@ -1,3 +1,4 @@
+/* Copyright (c) 2020 Lev Knoblock, see LICENSE */
 #ifndef DGOV_NET_H
 #define DGOV_NET_H
 

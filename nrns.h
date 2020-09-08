@@ -1,3 +1,4 @@
+/* Copyright (c) 2020 Lev Knoblock, see LICENSE */
 #ifndef DGOV_NRNS_H
 #define DGOV_NRNS_H
 

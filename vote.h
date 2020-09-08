@@ -1,3 +1,4 @@
+/* Copyright (c) 2020 Lev Knoblock, see LICENSE */
 #ifndef DGOV_VOTE_H
 #define DGOV_VOTE_H
 #include <sodium.h>

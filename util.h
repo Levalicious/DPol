@@ -1,3 +1,4 @@
+/* Copyright (c) 2020 Lev Knoblock, see LICENSE */
 #pragma once
 
 #include <stdio.h>
